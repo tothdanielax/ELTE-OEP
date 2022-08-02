@@ -1,0 +1,5 @@
+Egy számítógépes fájlrendszerben a fájlokat könyvtárakba szervezzük. Minden könyvtár tetszőleges számú fájlt vagy könyvtárat tartalmazhat. A fájlrendszerben a fájlok lehetnek közvetlen a fájlrendszerhez kötve (gyökér), vagy valamelyik könyvtárban is elhelyezkedhetnek. Adjuk meg a fájlrendszer gyökerében található bejegyzésekre, hogy mennyi tárhelyet foglalnak!
+
+A típusok konstruktorait és destruktorait tervezzük és valósítsuk meg úgy, hogy a mellékelt main.cpp állomány módosítás nélkül használható legyen (includeokat, neveket lehet módosítani) és a programunkban ne legyen memory leak, azaz minden objektumok töröljünk megfelelően!
+
+A mintában az elvárt kimenet: 0 2048 11920 6782
