@@ -1,0 +1,4 @@
+Valósítsd meg a gyakorlaton elkészített terv alapján a Complex osztályt a hozzá tartozó 4 művelettel (+, -, *, /) együtt.
+Készíts egy egyszerű alkalmazást, amiben egy menü segítségével kipróbálhatjuk a műveleteket. 
+A számok beolvasása történhet két valós szám egymást követő beolvasásával, a kiírás történjen a megszokott a±bi formátumban. Amennyiben egy művelet a kapott értékekre nem értelmezhető, azt jelezzük megfelelő hibaüzenettel a felhasználónak.
+
